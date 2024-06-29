@@ -1,0 +1,1 @@
+Projeto desenvolvido com as tecnologias HTML, CSS e Bootstrap, visando oferecer uma experiência suave e intuitiva ao usuário com a aplicabilidade de responsividade, cobrindo dispositivos desktop e mobile.
